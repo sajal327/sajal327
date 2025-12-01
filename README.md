@@ -18,7 +18,7 @@ in responsive UI development, secure backend architectures, REST APIs, microserv
 
 ## 🎯 Career Goals  
 Seeking roles as:  
-**Backend Developer (Spring Boot) | Full-Stack Developer (MERN) | DevOps Engineer (Entry-Level)**  
+**Backend Developer (Spring Boot) | Full-Stack Developer (MERN)**  
 
 Focused on long-term growth in:  
 - Scalable Spring Boot backend systems  
