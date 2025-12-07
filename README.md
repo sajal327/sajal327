@@ -1,5 +1,5 @@
 # Sajal Laha  
-### Full Stack Developer | Spring Boot Backend | MERN Stack | DevOps
+### Full Stack Developer | Spring Boot Backend | MERN Stack
 
 Full Stack Developer skilled in building RESTful APIs, optimizing databases, and creating scalable systems
 using **Java**, **Spring Boot (Java Backend)**, **MERN Stack (MongoDB, Express.js, React, Node.js)**, **MySQL**, and **Docker** with experience
