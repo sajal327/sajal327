@@ -6,8 +6,7 @@ using **Java**, **Spring Boot (Java Backend)**, **MERN Stack (MongoDB, Express.j
 in responsive UI development, secure backend architectures, REST APIs, microservices, and cloud deployments.
 
 
-## Career Goals  
-Seeking roles as:  
+## Career Goals   
 **Backend Developer (Spring Boot) | Full-Stack Developer (MERN)**  
 
 Focused on long-term growth in:  
