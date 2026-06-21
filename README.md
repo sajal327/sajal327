@@ -6,7 +6,7 @@ using **Java**, **Spring Boot (Java Backend)**, **MERN Stack (MongoDB, Express.j
 in responsive UI development, secure backend architectures, REST APIs, microservices, and cloud deployments.
 
 
-## 🎯 Career Goals  
+## Career Goals  
 Seeking roles as:  
 **Backend Developer (Spring Boot) | Full-Stack Developer (MERN)**  
 
@@ -16,7 +16,7 @@ Focused on long-term growth in:
 - Cloud engineering & DevOps pipelines  
 - Distributed systems & microservices  
 
-## 📫 Contact  
+## Contact  
 **Email:** sajallaha16@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/sajallaha/
 
